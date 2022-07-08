@@ -1,0 +1,6 @@
+HTML Small Topics
+
+1. Formatting and Save on 
+2. Inspecting pages with DevTools[DOM]
+3. Validating Web Pages[  *validator.w3.org*  for improvement]
+
